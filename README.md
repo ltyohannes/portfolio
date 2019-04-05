@@ -1,6 +1,6 @@
 ## Preview
 
-[![Resume Preview](img/Screenshot.jpg)](https://ltyohannes.github.io/portfolio/)
+[![Resume Preview](img/Screenshot.png)](https://ltyohannes.github.io/portfolio/)
 
 **[View Live Preview](https://ltyohannes.github.io/portfolio/)**
 
