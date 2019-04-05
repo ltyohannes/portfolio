@@ -1,4 +1,4 @@
-MODIFYED Template by Lydia Yohannes (Original can be found below)!
+MODIFIED Template by Lydia Yohannes (Original can be found below)!
 
 ## Preview
 
