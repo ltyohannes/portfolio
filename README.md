@@ -1,6 +1,6 @@
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://ltyohannes.github.io/portfolio/)
+[![Resume Preview](img/Screenshot.jpg)](https://ltyohannes.github.io/portfolio/)
 
 **[View Live Preview](https://ltyohannes.github.io/portfolio/)**
 
